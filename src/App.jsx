@@ -166,6 +166,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
                 >
                   Edit
                 </button>
+                
                 {
                 <button
                   className="btn btn-danger btn-sm"
@@ -174,6 +175,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
                   Delete
                 </button>
                 }
+                
               </td>
             </tr>
           ))}
